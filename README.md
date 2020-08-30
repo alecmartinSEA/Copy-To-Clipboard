@@ -30,7 +30,7 @@ in a new JS file or between <script> Initiate cliboard
 var clipboard = new ClipboardJS('.btn'); 
 ```
 
-Write a succuess function where you make the ID into a variable and create a new element if worked. 
+Write a success function where you make the ID into a variable and create a new element if worked.\ 
 Use clipboard.destroy() if you want it only to run once.
 
 ```
@@ -46,7 +46,7 @@ clipboard.on("success", function() {
 });
 ```
 
-create a error function just in case it doesn't work.
+create an error function just in case it doesn't work.
 ```
 //If it didn't work show error
 clipboard.on("error", function() {
