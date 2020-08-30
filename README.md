@@ -30,7 +30,7 @@ in a new JS file or between <script> Initiate cliboard
 var clipboard = new ClipboardJS('.btn'); 
 ```
 
-Write a success function where you make the ID into a variable and create a new element if worked.\ 
+Write a success function where you make the ID into a variable and create a new element if worked.   
 Use clipboard.destroy() if you want it only to run once.
 
 ```
