@@ -1,6 +1,6 @@
 # Copy-To-Clipboard
 
-Code that uses clipboard.jsa to copy a certian piece of text and shows a user feedback that they copied said text.
+Code that uses clipboard.js to copy a certian piece of text and shows a user feedback that they copied said text.
 
 ## Installation
 
